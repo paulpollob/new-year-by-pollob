@@ -67,6 +67,10 @@ ul {
 }
 
 .myplan{
+    text-align: center;
+}
+
+.myplanitem{
     display: flex;
     align-items: center;
     justify-content: center;
