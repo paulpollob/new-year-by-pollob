@@ -31,11 +31,16 @@ h1{
 }
 
 
-.headerbtn{
+.btn{
     border-radius: 03px;
-    height: 30px;
+    /* height: 30px; */
+    padding: 10px 15px;
     border: none;
     color: blue;
+}
+
+.btn:hover{
+    background-color: rgba(18, 18, 212, 0.196);
 }
 
 ul {
@@ -84,3 +89,22 @@ ul {
 .my_plan_div h3{
     margin: 0px;
 }
+
+.positivemind{
+    background-image: url("./images/watch.png");
+    background-size: 100% 100%;
+    height: 150px;
+    margin: 50px 350px;
+    background-repeat: no-repeat;
+}
+
+.gradient{
+    background-image: url('./images/gradient1.png');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    padding-left: 40px;
+    color: white;
+}
+ 
