@@ -108,3 +108,42 @@ ul {
     color: white;
 }
  
+.future{
+    width: 500px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 50px 350px;
+}
+
+.footerdes{
+    color: gray;
+}
+.socialMedia img{
+    margin: 5px;
+    width: 30px;
+}
+
+
+.subscribe input{
+    padding: 15px;
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.emailbtn{
+    background-color: rgba(33, 135, 218, 0.692);
+    border-radius: 03px;
+    color: white;
+    padding: 15px 30px;
+    margin-top: 20px;
+    border: none;
+}
+
+.emailbtn:hover{
+    background-color: white;
+}
