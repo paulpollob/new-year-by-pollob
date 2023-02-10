@@ -65,3 +65,18 @@ ul {
 .previousFailure p{
     padding-left: 50px;
 }
+
+.myplan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my_plan_div{
+    text-align: center;
+    margin: 50px;
+}
+
+.my_plan_div h3{
+    margin: 0px;
+}
